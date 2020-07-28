@@ -1,3 +1,4 @@
+[![Run on Repl.it](https://repl.it/badge/github/ZDev28/Sno-code)](https://repl.it/github/ZDev28/Sno-code)
 **Commands:**
 ***
 write - prints something, number or string or boolean (booleans like python booleans)

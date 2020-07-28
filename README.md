@@ -1,12 +1,21 @@
 **Commands:**
+***
 write - prints something, number or string or boolean (booleans like python booleans)
+***
 var - makes a variable
+***
 if - if statement
+***
 fun - creates a function
+***
 class - creates a class (you can add Python self.thing)
+***
 while - while keyword
+***
 prompt - takes input
+***
 install - install something (python libraries)
+***
 **Examples:**
 write()
 ```sno
